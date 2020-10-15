@@ -1,5 +1,5 @@
 # agenda-app
-A Google script based app which automatically creates agendas for meeting from template
+A Google script based app which automatically creates agendas for meetings from a template
 
 ### How It Works
 
