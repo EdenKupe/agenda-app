@@ -13,3 +13,6 @@ As mentioned, the script is very simple so it's all in `main.js` in this reposit
 * Finalize the default template used in the script.
 * Make the script run on button click and not on calendar change event.
 * Far-future: remove the template from the script and use a global template stored in Drive.
+
+
+[Based on this solution](https://github.com/googleworkspace/solutions/tree/master/agenda-maker).
