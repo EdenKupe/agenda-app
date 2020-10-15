@@ -7,6 +7,12 @@ The script is quite simple. The main trigger for the code is in the `onCalendarC
 
 As mentioned, the script is very simple so it's all in `main.js` in this repository. Currently runs on my Google account using Google's Script Dashboard.
 
+### Test it out
+
+If you want to test the application, you can grab all of the code in `main.js` and place it into a Google script on your account. Set a trigger to run the `onCalendarChange` function (you can do that throug Google Script Dashboard) and you're all set!
+
+**Note**: there won't be an auto-update to the script, so we change anything here, you won't have the latest version. We don't plan on changing much anyway, but just a heads up ;)
+
 ### To-Dos
 
 * Fix the bug with the guest name not being populated.
